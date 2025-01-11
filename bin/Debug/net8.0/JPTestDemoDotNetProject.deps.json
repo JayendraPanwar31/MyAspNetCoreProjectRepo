@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JPTestDemoDotNetProject/1.0.0": {
+        "runtime": {
+          "JPTestDemoDotNetProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JPTestDemoDotNetProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
